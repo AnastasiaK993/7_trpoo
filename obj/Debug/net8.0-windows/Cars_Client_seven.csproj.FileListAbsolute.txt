@@ -1,0 +1,52 @@
+C:\Users\st310-03\Desktop\кивалкина\Cars_Client_seven\obj\Debug\net8.0-windows\Cars_Client_seven.csproj.AssemblyReference.cache
+C:\Users\st310-03\Desktop\кивалкина\Cars_Client_seven\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\st310-03\Desktop\кивалкина\Cars_Client_seven\obj\Debug\net8.0-windows\Pages\MainPage.g.cs
+C:\Users\st310-03\Desktop\кивалкина\Cars_Client_seven\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\st310-03\Desktop\кивалкина\Cars_Client_seven\obj\Debug\net8.0-windows\Cars_Client_seven_Content.g.cs
+C:\Users\st310-03\Desktop\кивалкина\Cars_Client_seven\obj\Debug\net8.0-windows\Cars_Client_seven_MarkupCompile.cache
+C:\Users\st310-03\Desktop\кивалкина\Cars_Client_seven\obj\Debug\net8.0-windows\Cars_Client_seven_MarkupCompile.lref
+C:\Users\st310-02\Desktop\кивалкина\7_trpo_CLient-main\obj\Debug\net8.0-windows\Cars_Client_seven.csproj.AssemblyReference.cache
+C:\Users\st310-02\Desktop\кивалкина\7_trpo_CLient-main\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\st310-02\Desktop\кивалкина\7_trpo_CLient-main\obj\Debug\net8.0-windows\Pages\CarPage.g.cs
+C:\Users\st310-02\Desktop\кивалкина\7_trpo_CLient-main\obj\Debug\net8.0-windows\Pages\EditPage.g.cs
+C:\Users\st310-02\Desktop\кивалкина\7_trpo_CLient-main\obj\Debug\net8.0-windows\Pages\MainPage.g.cs
+C:\Users\st310-02\Desktop\кивалкина\7_trpo_CLient-main\obj\Debug\net8.0-windows\Pages\PostPage.g.cs
+C:\Users\st310-02\Desktop\кивалкина\7_trpo_CLient-main\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\st310-02\Desktop\кивалкина\7_trpo_CLient-main\obj\Debug\net8.0-windows\Cars_Client_seven_Content.g.cs
+C:\Users\st310-02\Desktop\кивалкина\7_trpo_CLient-main\obj\Debug\net8.0-windows\Cars_Client_seven_MarkupCompile.cache
+C:\Users\st310-02\Desktop\кивалкина\7_trpo_CLient-main\obj\Debug\net8.0-windows\Cars_Client_seven_MarkupCompile.lref
+C:\Users\Anastasia\Desktop\учеба\4 курс\7_trpo_-main\bin\Debug\net8.0-windows\Cars_Client_seven.exe
+C:\Users\Anastasia\Desktop\учеба\4 курс\7_trpo_-main\bin\Debug\net8.0-windows\Cars_Client_seven.deps.json
+C:\Users\Anastasia\Desktop\учеба\4 курс\7_trpo_-main\bin\Debug\net8.0-windows\Cars_Client_seven.runtimeconfig.json
+C:\Users\Anastasia\Desktop\учеба\4 курс\7_trpo_-main\bin\Debug\net8.0-windows\Cars_Client_seven.dll
+C:\Users\Anastasia\Desktop\учеба\4 курс\7_trpo_-main\bin\Debug\net8.0-windows\Cars_Client_seven.pdb
+C:\Users\Anastasia\Desktop\учеба\4 курс\7_trpo_-main\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\Anastasia\Desktop\учеба\4 курс\7_trpo_-main\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Anastasia\Desktop\учеба\4 курс\7_trpo_-main\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Anastasia\Desktop\учеба\4 курс\7_trpo_-main\obj\Debug\net8.0-windows\Cars_Client_seven.csproj.AssemblyReference.cache
+C:\Users\Anastasia\Desktop\учеба\4 курс\7_trpo_-main\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Anastasia\Desktop\учеба\4 курс\7_trpo_-main\obj\Debug\net8.0-windows\Pages\CarPage.g.cs
+C:\Users\Anastasia\Desktop\учеба\4 курс\7_trpo_-main\obj\Debug\net8.0-windows\Pages\EditPage.g.cs
+C:\Users\Anastasia\Desktop\учеба\4 курс\7_trpo_-main\obj\Debug\net8.0-windows\Pages\MainPage.g.cs
+C:\Users\Anastasia\Desktop\учеба\4 курс\7_trpo_-main\obj\Debug\net8.0-windows\Pages\PostPage.g.cs
+C:\Users\Anastasia\Desktop\учеба\4 курс\7_trpo_-main\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Anastasia\Desktop\учеба\4 курс\7_trpo_-main\obj\Debug\net8.0-windows\Cars_Client_seven_Content.g.cs
+C:\Users\Anastasia\Desktop\учеба\4 курс\7_trpo_-main\obj\Debug\net8.0-windows\Cars_Client_seven_MarkupCompile.cache
+C:\Users\Anastasia\Desktop\учеба\4 курс\7_trpo_-main\obj\Debug\net8.0-windows\Cars_Client_seven_MarkupCompile.lref
+C:\Users\Anastasia\Desktop\учеба\4 курс\7_trpo_-main\obj\Debug\net8.0-windows\App.baml
+C:\Users\Anastasia\Desktop\учеба\4 курс\7_trpo_-main\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Anastasia\Desktop\учеба\4 курс\7_trpo_-main\obj\Debug\net8.0-windows\Pages\CarPage.baml
+C:\Users\Anastasia\Desktop\учеба\4 курс\7_trpo_-main\obj\Debug\net8.0-windows\Pages\EditPage.baml
+C:\Users\Anastasia\Desktop\учеба\4 курс\7_trpo_-main\obj\Debug\net8.0-windows\Pages\MainPage.baml
+C:\Users\Anastasia\Desktop\учеба\4 курс\7_trpo_-main\obj\Debug\net8.0-windows\Pages\PostPage.baml
+C:\Users\Anastasia\Desktop\учеба\4 курс\7_trpo_-main\obj\Debug\net8.0-windows\Cars_Client_seven.g.resources
+C:\Users\Anastasia\Desktop\учеба\4 курс\7_trpo_-main\obj\Debug\net8.0-windows\Cars_Client_seven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasia\Desktop\учеба\4 курс\7_trpo_-main\obj\Debug\net8.0-windows\Cars_Client_seven.AssemblyInfoInputs.cache
+C:\Users\Anastasia\Desktop\учеба\4 курс\7_trpo_-main\obj\Debug\net8.0-windows\Cars_Client_seven.AssemblyInfo.cs
+C:\Users\Anastasia\Desktop\учеба\4 курс\7_trpo_-main\obj\Debug\net8.0-windows\Cars_Client_seven.csproj.CoreCompileInputs.cache
+C:\Users\Anastasia\Desktop\учеба\4 курс\7_trpo_-main\obj\Debug\net8.0-windows\Cars_Cli.62EABF2E.Up2Date
+C:\Users\Anastasia\Desktop\учеба\4 курс\7_trpo_-main\obj\Debug\net8.0-windows\Cars_Client_seven.dll
+C:\Users\Anastasia\Desktop\учеба\4 курс\7_trpo_-main\obj\Debug\net8.0-windows\refint\Cars_Client_seven.dll
+C:\Users\Anastasia\Desktop\учеба\4 курс\7_trpo_-main\obj\Debug\net8.0-windows\Cars_Client_seven.pdb
+C:\Users\Anastasia\Desktop\учеба\4 курс\7_trpo_-main\obj\Debug\net8.0-windows\Cars_Client_seven.genruntimeconfig.cache
+C:\Users\Anastasia\Desktop\учеба\4 курс\7_trpo_-main\obj\Debug\net8.0-windows\ref\Cars_Client_seven.dll
